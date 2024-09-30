@@ -1,0 +1,50 @@
+
+        body {
+            background-color: #333333
+        }
+        table {
+            border-spacing: 30px;
+        }
+        table :hover {
+            background-color: #292dff;
+        }
+        hr {
+            border-style: none;
+            border-top-style: dotted;
+            border-color: #d8ffff;
+            border-width: 5px;
+            width: 5%;
+        }
+        img {
+            width: 100%;
+            height: 100%;
+        }
+        h1 {
+            color: #F7F7F7 ;
+        }
+        h3  {
+            color:  #F7F7F7;
+        }
+        p {
+            color: #69FFD1 ;
+        }
+        td {
+            color: #69FFD1;
+        }
+        th {
+            color: #FF6347;
+        }
+        li {
+            color: #69FFD1;
+        }
+        input {
+            color: #69FFD1;
+            background-color: tomato;
+        }
+        label {
+            color: #69FFD1;
+        }
+        textarea {
+             color: #69FFD1;
+            background-color: tomato;
+        }
